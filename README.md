@@ -11,6 +11,7 @@ Hello <sub>Github</sub> HI.
 ![Dragon](PIcs/OIP.jpg)
 
 My List
--One
--Two
--Three
+
+- One
+- Two
+- Three
