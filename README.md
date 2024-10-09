@@ -19,6 +19,6 @@ My List
 - Three
 
 
-- [] Go home
-- [] Take out trash
-- [] Make music
+- [ ] Go home
+- [ ] Take out trash
+- [ ] Make music
