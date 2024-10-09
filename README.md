@@ -23,4 +23,4 @@ My List
 - [ x ] Take out trash
 - [ ] Make music
 
-@github/[Mike](https://github.com/Ageless1980) hello
+@github/jeorgeg365 hello
